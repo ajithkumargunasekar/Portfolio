@@ -1,27 +1,27 @@
 export const blogData = [
     {
         id: 1,
-        title: 'SCRAPING BILLBOARD AND IMDB USING PYTHON SELENIUM',
-        description: 'Here we will use Selenium to navigate between web pages, and try to scrape data from them.',
-        date: 'Aug 7, 2020',
-        image: 'https://1.bp.blogspot.com/-6vZQoWcIZeo/Xvw5ZD5Y53I/AAAAAAAABgI/GH2b5OuMaXAKuigK4diBbeYDW6dD3qVvgCK4BGAsYHg/w400-h225/selenium.jpg',
-        url: 'https://hackzism.blogspot.com/2020/07/scraping-billboard-and-imdb-using.html'
+        title: 'React component design patterns for 2022',
+        description: 'Design patterns are solution templates to common software development problems. ',
+        date: 'Mar 3, 2022',
+        image: 'https://miro.medium.com/max/700/1*Pdg_lKPZvHFeAhXdgN0QPg.jpeg',
+        url: 'https://medium.com/@Karan-dev/react-component-design-patterns-for-2022-b331da56ce49'
     },
     {
         id: 2,
-        title: 'CHECK WEATHER FROM TERMINAL USING WTTR.IN',
-        description: 'wttr.in is a console-oriented weather forecast service that supports various information representation methods like ANSI-sequences for console HTTP clients, HTML, or PNG.',
-        date: 'Aug 11, 2020',
-        image: 'https://1.bp.blogspot.com/-OW7jX57tea4/XvnGxuEOslI/AAAAAAAABW0/R8lVT1AXDSwnvE0EGA9Ra49-LDm1ACwDgCK4BGAsYHg/s1216/wttr1.png',
-        url: 'https://hackzism.blogspot.com/2020/06/check-weather-from-terminal-using-wttrin.html'
+        title: 'Why GraphCMS ?',
+        description: 'PWAs, eCommerce, Desktop apps and more made possible with Next.js',
+        date: 'Mar 4, 2022',
+        image: 'https://miro.medium.com/max/700/1*qvXBzGYaAu8M8uY1cQd-0g.png ',
+        url: 'https://medium.com/@Karan-dev/why-graphcms-6be5e95f5cad'
     },
     {
         id: 3,
-        title: 'BEING ANONYMOUS: A BEGINNERS GUIDE',
-        description: 'Here are some basic ways to lay off the Radar',
-        date: 'Aug 14, 2020',
-        image: 'https://1.bp.blogspot.com/-GR19yCNbKCE/XuRcKEfKvhI/AAAAAAAAAwY/srFWw5pOpzMibeJb__SmgZpx9dIpNNWqgCK4BGAsYHg/w640-h426/anonymous1.jpg',
-        url: 'https://hackzism.blogspot.com/2020/06/being-anonymous-beginners-guide.html'
+        title: '5 Best Parallax Website Design Examples',
+        description: 'What is parallax scrolling?',
+        date: 'Mar 5, 2022',
+        image: 'https://miro.medium.com/max/700/1*ZUepe8tg5Mf0c5IT9BWWmQ.jpeg',
+        url: 'https://medium.com/@Karan-dev/5-best-parallax-website-design-examples-1ce93992f5a'
     },
     {
         id: 4,

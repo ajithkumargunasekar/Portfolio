@@ -14,6 +14,7 @@ import {
     FaGithub,
     FaYoutube,
     FaBlogger,
+    FaMediumM,
 } from 'react-icons/fa';
 
 function Landing() {
@@ -114,7 +115,7 @@ function Landing() {
                                 />
                             </a>
                         )}
-                        {socialsData.youtube && (
+                        {/* {socialsData.youtube && (
                             <a
                                 href={socialsData.youtube}
                                 target='_blank'
@@ -126,20 +127,30 @@ function Landing() {
                                     aria-label='YouTube'
                                 />
                             </a>
-                        )}
-                        {socialsData.blogger && (
+                        )} */}
+                        {socialsData.medium && (
                             <a
-                                href={socialsData.blogger}
+                                href={socialsData.medium}
                                 target='_blank'
                                 rel='noreferrer'
                             >
-                                <FaBlogger
+                                <FaMediumM 
                                     className='landing--social'
                                     style={{ color: theme.secondary }}
-                                    aria-label='Blogger'
+                                    aria-label='Medium'
                                 />
                             </a>
                         )}
+                        {/* {socialsData.medium && (
+                                <a
+                                    href={socialsData.medium}
+                                    target='_blank'
+                                    rel='noreferrer'
+                                    className={classes.socialIcon}
+                                >
+                                    <FaMediumM aria-label='Medium' />
+                                </a>
+                            )} */}
                     </div>
                 </div>
                 <img
@@ -172,7 +183,7 @@ function Landing() {
                                     rel='noreferrer'
                                 >
                                     <Button className={classes.resumeBtn}>
-                                        Download CV
+                                        Resume
                                     </Button>
                                 </a>
                             )}

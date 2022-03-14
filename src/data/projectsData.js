@@ -11,12 +11,12 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: one
+        projectName: 'Hulu Clone',
+        projectDesc: 'Hulu is the leading premium streaming service offering live and on-demand TV and movies, with and without commercials, both in and outside the home.',
+        tags: ['NextJs', 'Tailwind CSS', ],
+        code: 'https://github.com/karan-dev3591/Streamer',
+        demo: 'https://github.com/karan-dev3591/Streamer',
+        image: '/images.jpg'
     },
     {
         id: 2,
