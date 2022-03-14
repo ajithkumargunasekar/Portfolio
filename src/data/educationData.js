@@ -13,11 +13,5 @@ export const educationData = [
         startYear: '2019',
         endYear: '2022'
     },
-    // {
-    //     id: 3,
-    //     institution: 'Hawking University, Cambridge',
-    //     course: 'Master of Technology',
-    //     startYear: '2019',
-    //     endYear: 'Present'
-    // },
+  
 ]

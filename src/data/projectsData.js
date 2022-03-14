@@ -11,20 +11,20 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Hulu Clone',
-        projectDesc: 'Hulu is the leading premium streaming service offering live and on-demand TV and movies, with and without commercials, both in and outside the home.',
+        projectName: 'Universe',
+        projectDesc: 'Universe is the leading premium streaming service offering live and on-demand TV and movies, with and without commercials, both in and outside the home.',
         tags: ['NextJs', 'Tailwind CSS', ],
-        code: 'https://github.com/karan-dev3591/Streamer',
-        demo: 'https://github.com/karan-dev3591/Streamer',
+        code: 'https://github.com/ajithkumargunasekar1906/Universe-Streaming',
+        demo: 'https://github.com/ajithkumargunasekar1906/Universe-Streaming',
         image: '/images.jpg'
     },
     {
         id: 2,
-        projectName: 'Railway Tracking',
-        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-        tags: ['Django', 'Tailwind CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Corona Tracking',
+        projectDesc: 'This project is a corona tracking system that allows users to obtain relevant information about corona cases.',
+        tags: ['React'],
+        code: 'https://github.com/ajithkumargunasekar1906/Corona-Tracker',
+        demo: 'https://github.com/ajithkumargunasekar1906/Corona-Tracker',
         image: two
     },
     {

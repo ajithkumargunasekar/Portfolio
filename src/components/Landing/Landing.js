@@ -128,7 +128,7 @@ function Landing() {
                                 />
                             </a>
                         )} */}
-                        {socialsData.medium && (
+                        {/* {socialsData.medium && (
                             <a
                                 href={socialsData.medium}
                                 target='_blank'
@@ -140,7 +140,7 @@ function Landing() {
                                     aria-label='Medium'
                                 />
                             </a>
-                        )}
+                        )} */}
                         {/* {socialsData.medium && (
                                 <a
                                     href={socialsData.medium}
