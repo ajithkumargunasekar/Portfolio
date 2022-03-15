@@ -14,8 +14,8 @@ export const projectsData = [
         projectName: 'Universe',
         projectDesc: 'Universe is the leading premium streaming service offering live and on-demand TV and movies, with and without commercials, both in and outside the home.',
         tags: ['NextJs', 'Tailwind CSS', ],
-        code: 'https://github.com/ajithkumargunasekar1906/Universe-Streaming',
-        demo: 'https://github.com/ajithkumargunasekar1906/Universe-Streaming',
+        code: 'https://github.com/ajithkumargunasekar/Universe-Streaming',
+        demo: 'https://github.com/ajithkumargunasekar/Universe-Streaming',
         image: '/images.jpg'
     },
     {
@@ -23,8 +23,8 @@ export const projectsData = [
         projectName: 'Corona Tracking',
         projectDesc: 'This project is a corona tracking system that allows users to obtain relevant information about corona cases.',
         tags: ['React'],
-        code: 'https://github.com/ajithkumargunasekar1906/Corona-Tracker',
-        demo: 'https://github.com/ajithkumargunasekar1906/Corona-Tracker',
+        code: 'https://github.com/ajithkumargunasekar/Corona-Tracker',
+        demo: 'https://github.com/ajithkumargunasekar/Corona-Tracker',
         image: two
     },
     {
