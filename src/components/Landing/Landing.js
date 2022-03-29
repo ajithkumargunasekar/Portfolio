@@ -12,9 +12,6 @@ import {
     FaTwitter,
     FaLinkedin,
     FaGithub,
-    FaYoutube,
-    FaBlogger,
-    FaMediumM,
 } from 'react-icons/fa';
 
 function Landing() {
@@ -115,42 +112,6 @@ function Landing() {
                                 />
                             </a>
                         )}
-                        {/* {socialsData.youtube && (
-                            <a
-                                href={socialsData.youtube}
-                                target='_blank'
-                                rel='noreferrer'
-                            >
-                                <FaYoutube
-                                    className='landing--social'
-                                    style={{ color: theme.secondary }}
-                                    aria-label='YouTube'
-                                />
-                            </a>
-                        )} */}
-                        {/* {socialsData.medium && (
-                            <a
-                                href={socialsData.medium}
-                                target='_blank'
-                                rel='noreferrer'
-                            >
-                                <FaMediumM 
-                                    className='landing--social'
-                                    style={{ color: theme.secondary }}
-                                    aria-label='Medium'
-                                />
-                            </a>
-                        )} */}
-                        {/* {socialsData.medium && (
-                                <a
-                                    href={socialsData.medium}
-                                    target='_blank'
-                                    rel='noreferrer'
-                                    className={classes.socialIcon}
-                                >
-                                    <FaMediumM aria-label='Medium' />
-                                </a>
-                            )} */}
                     </div>
                 </div>
                 <img
